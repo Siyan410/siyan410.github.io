@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Even - A super concise theme for Hugo</title>
+    <title>Siyan&#39;s blog</title>
     <link>http://siyan410.github.io/</link>
-    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <description>Recent content on Siyan&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 30 Aug 2017 01:37:56 +0800</lastBuildDate><atom:link href="http://siyan410.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 05 Oct 2024 11:44:19 +0800</lastBuildDate><atom:link href="http://siyan410.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[中文] 《长恨歌》</title>
-      <link>http://siyan410.github.io/post/chinese-preview/</link>
-      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
+      <title>Somewhat Practical Fully Homomorphic Encryption</title>
+      <link>http://siyan410.github.io/post/somewhatpracticalfullyhomomorphicencryption/</link>
+      <pubDate>Sat, 05 Oct 2024 11:44:19 +0800</pubDate>
       
-      <guid>http://siyan410.github.io/post/chinese-preview/</guid>
-      <description>《长恨歌》是中国唐朝诗人白居易的一首长篇叙事诗。 第一段：贵妃受宠爱 汉皇重色思倾国，御宇多年求不得。杨家有女初长成，养在深闺人未识。 天生丽质难</description>
+      <guid>http://siyan410.github.io/post/somewhatpracticalfullyhomomorphicencryption/</guid>
+      <description>Introduction Preliminaries Notation 符号 说明 $R$ 多项式环 $\mathbb{Z}[x]/f(x)$ $f(x) \in \mathbb{Z}[x]$ 单元不可约多项式，阶为$d$，实际中会使用分圆多项式，经常会使用$f(x)=x^d+1，d=2^n$ $\textbf{a}$ 环$R</description>
     </item>
     
   </channel>
